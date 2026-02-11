@@ -1,1 +1,1 @@
-# Hotel Data Management System
+# E2E data pipeline
